@@ -1,14 +1,11 @@
 
-<h1 align="center">
-  <br>
+<p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=mstuttgart.odoo-snippets">
-  <img src="https://github.com/mstuttgart/vscode-odoo-snippets/blob/develop/images/icon.png?raw=true"></a>
-  <br>
-  VSCode Odoo Snippets
-  <br>
-</h1>
-
-<h4 align="center">Develop Odoo modules faster and with no Typing Errors</h4>
+    <img src="https://github.com/mstuttgart/vscode-odoo-snippets/blob/develop/images/icon.png?raw=true">
+  </a>
+  <h3 align="center">VSCode Odoo Snippets</h3>
+  <h4 align="center">Develop Odoo modules faster and with no Typing Errors</h4>
+</p>
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=mstuttgart.odoo-snippets">
